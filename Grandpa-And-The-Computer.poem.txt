@@ -1,6 +1,6 @@
 The computer swallowed Grandpa
 Yes honestly, its true.
-He pressed 'control' and 'enter'
+He pressed <Ctrl> and <Enter>
 And disappeared from view.
 
 It's devoured him completely
@@ -8,9 +8,9 @@ The thought just makes me squirm.
 Maybe he's caught a virus
 Or been eaten by a worm.
 
-I've searched through the recycle bin
+I've searched through the [Recycle Bin]
 And files of every kind.
-I've even used the internet
+I've even used the Internet
 But nothing could I find.
 
 I asked Jeeves in desperation
@@ -18,7 +18,7 @@ My searches to refine.
 The reply from him was negative
 Not a thing was found online.
 
-So, if someday in your 'InBox'
+So, if someday in your [Inbox]
 My Grandpa you should see.
-Please 'Scan', 'Copy' and 'Paste' him
+Please [Scan], [Copy] and [Paste] him
 In an e-mail back to me.
