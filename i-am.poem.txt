@@ -8,7 +8,7 @@ I am sharp and focused                          /* I am (the first line of the p
 I pretend to be a statue                        /* I pretend (something you pretend to do) */
 I feel the shakes inside                        /* I feel (a feeling about something imaginary) */
 I touch the shutter button                      /* I touch (an imaginary touch) */
-I worry about the blurry result                 /* I worry (something that really bothers you) */
+I worry about the sky falling                   /* I worry (something that really bothers you) */
 I cry that the moment has forever passed        /* I cry (something that makes you very sad) */
 I am sharp and focused                          /* I am (the first line of the poem repeated) */
 
